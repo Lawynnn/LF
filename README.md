@@ -1,6 +1,4 @@
-# LF
-
-An example of of LFBOT
+#LFBOT Example
 ```js
 const LF = require("./LF");
 
