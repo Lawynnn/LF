@@ -2,6 +2,7 @@
   <img src="https://img.shields.io/github/languages/top/Lawynnn/LF?style=flat-square"/>
   <img src="https://sonarcloud.io/api/project_badges/measure?project=LF&metric=ncloc"/>
   <img src="https://img.shields.io/github/stars/Lawynnn/LF?color=5ac18e&label=Stars&style=flat-square"/>
+  <img src="https://img.shields.io/bitbucket/issues-raw/Lawynnn/LF?style=flat-square">
 </div>
 
 # LFBOT Example
