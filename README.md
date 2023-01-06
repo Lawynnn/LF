@@ -1,4 +1,9 @@
+<div align="center">
+  <img src="https://img.shields.io/github/stars/Lawynnn/LF?style=flat-square">
+</div>
+
 # LFBOT Example
+
 ```js
 const LF = require("./LF");
 
