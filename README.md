@@ -5,6 +5,10 @@
   <img src="https://img.shields.io/bitbucket/issues-raw/Lawynnn/LF?style=flat-square">
 </div>
 
+# INSTALLATION
+
+`yarn add https://github.com/Lawynnn/LF.git discord.js advanced-calculator`
+
 # LFBOT Example
 
 ```js
