@@ -8,7 +8,7 @@
 # LFBOT Example
 
 ```js
-const LF = require("./LF");
+const LF = require("LF");
 
 const bot = new LF.Bot();
 
