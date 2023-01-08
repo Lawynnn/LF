@@ -7,6 +7,10 @@
 
 # INSTALLATION
 
+Install yarn (only if u dont have already)
+`npm i -g yarn`
+
+Download libraries
 `yarn add https://github.com/Lawynnn/LF.git discord.js advanced-calculator`
 
 # LFBOT Example
